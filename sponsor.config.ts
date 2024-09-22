@@ -12,6 +12,10 @@ const past: BadgePreset = {
 }
 
 export default defineConfig({
+  github: {
+    login: 'Open-reSource',
+    type: 'organization',
+  },
   tiers: [
     {
       title: 'Past Sponsors',
