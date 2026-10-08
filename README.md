@@ -1,8 +1,6 @@
-<p align="center"><picture><source srcset=".github/header.svg" type="image/svg+xml"><img src=".github/header.png" width="830" alt="Sponsors, by Open {re}Source. The sponsor images of Open {re}Source, generated every day with SponsorKit."></picture></p>
+<h1 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/logo-title-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/logo-title-light.svg"><img src=".github/logo-title-light.png" width="331" alt="Sponsors"></picture></h1>
 
-# Sponsors
-
-This repository is a host for static files used to display sponsors in other repositories.
+<p align="center">This repository is a host for static files used to display sponsors in other repositories.</p>
 
 It has been created from [SponsorKit Starter Template](https://github.com/open-reSource/sponsorkit-starter).
 
@@ -32,4 +30,4 @@ It has been created from [SponsorKit Starter Template](https://github.com/open-r
   <img src='https://cdn.jsdelivr.net/gh/Open-reSource/sponsors/sponsors.wide.svg'/>
 </p>
 
-<sub>The Open {re}Source mark and the header image (`.github/header.*`) are not covered by the licence of this repository: all rights reserved.</sub>
+<sub>The Open {re}Source mark and the title image (`.github/logo-title-*`) are not covered by the licence of this repository: all rights reserved.</sub>
